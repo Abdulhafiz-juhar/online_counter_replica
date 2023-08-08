@@ -3,4 +3,37 @@
     margin: 0;
  }
 
+ .upper-navbar {
+   display: flex;
+ }
+
+ .searchbar {
+   display: flex;
+ }
+
+ .search-button {
+   width: 23px;
+   height: 26px;
+ }
+ 
+ .searchbar-input {
+   width: 172px;
+   height: 23px;
+ }
+
+.myaccount-link {
+   display: flex;
+}
+
+.account-arrow-icon {
+   width: 18px;
+   height: 8px;
+
+}
+
+.breaker {
+   min-height: 10px;
+   min-width: 1px;
+   background-color: black;
+}
  
