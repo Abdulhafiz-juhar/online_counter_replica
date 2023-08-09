@@ -81,3 +81,19 @@
    width: 180px;
    height: 94px;
 }
+
+.lower-navbar {
+   margin: 0 20px;
+   padding: 0 40px;
+   display: flex;
+   gap: 1em;
+}
+
+.lower-navbar a {
+   text-decoration: none;
+   color: black;
+}
+
+.links {
+   padding: 17px 0;
+}
