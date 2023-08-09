@@ -1,7 +1,11 @@
 * {
    box-sizing: border-box;
    padding: 0;
-    margin: 0;
+   margin: 0;
+ }
+
+ html {
+   background-color: #f3f5f6;
  }
 
  .upper-navbar {
@@ -83,8 +87,8 @@
 }
 
 .lower-navbar {
-   margin: 0 20px;
-   padding: 0 40px;
+   background-color: white;
+   padding: 0 60px;
    display: flex;
    gap: 1em;
 }
