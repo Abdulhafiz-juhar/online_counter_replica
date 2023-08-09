@@ -72,3 +72,8 @@
 .cart-icon {
    width: 22px;
 }
+
+a {
+   text-decoration: none;
+   color: #ffffff;
+}
