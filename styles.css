@@ -48,6 +48,7 @@
 
 .myaccount-link {
    display: flex;
+   gap: 1em;
 }
 
 .account-arrow-icon {
@@ -64,13 +65,14 @@
 
 .cart {
    display: flex;
+   gap: 1em;
 }
 
 .cart-icon {
    width: 22px;
 }
 
-a {
+.upper-navbar a {
    text-decoration: none;
    color: #ffffff;
 }
